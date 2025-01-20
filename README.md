@@ -48,6 +48,10 @@ The PDF file [Group23_assessment.pdf](./Group23_assessment.pdf) in this reposito
 ## Getting Started
 
 To use the code and reproduce the results:
-1. `git clone https://github.com/LowUp/Routing_optimisation_project.git`
-2. `pip install -r requirements.txt`
+1. ```bash
+   git clone https://github.com/LowUp/Routing_optimisation_project.git
+   ```
+2. ```bash
+   pip install -r requirements.txt
+   ```
 3. Run the provided Python scripts to execute the optimization algorithms (Use Jupyter Notebook for better visibility)
