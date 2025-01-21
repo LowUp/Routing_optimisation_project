@@ -54,4 +54,4 @@ To use the code and reproduce the results:
 2. ```bash
    pip install -r requirements.txt
    ```
-3. Run the provided Python scripts to execute the optimization algorithms (Use Jupyter Notebook for better visibility)
+3. Run the provided Python scripts to execute the optimization algorithms (Use ``Jupyter Notebook`` for better visibility)
